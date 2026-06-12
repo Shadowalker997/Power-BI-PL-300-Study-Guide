@@ -93,8 +93,8 @@ See [this](https://drive.google.com/drive/u/1/folders/14mQNdzJjq_DcMgXNRPRdD8Pjv
 
 ### Develop a data model 
 Unfortunately this section does not appear in the MS Learn track, though its items are addressed elsewhere. Links have nevertheless been provided below to cover the topics.
-- [ ] [create calculated tables](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-calculated-tables)
-- [ ] [create hierarchies](https://spreadsheeto.com/power-bi-hierarchy/)
+- [x] [create calculated tables](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-calculated-tables)
+- [x] [create hierarchies](https://spreadsheeto.com/power-bi-hierarchy/)
 - [ ] [create calculated columns](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-calculated-columns)
 - [ ] [implement row-level security roles](https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/)
 - [ ] [use the Q&A feature](https://docs.microsoft.com/en-us/power-bi/create-reports/power-bi-tutorial-q-and-a)
