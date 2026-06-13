@@ -97,7 +97,7 @@ Unfortunately this section does not appear in the MS Learn track, though its ite
 - [x] [create hierarchies](https://spreadsheeto.com/power-bi-hierarchy/)
 - [x] [create calculated columns](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-calculated-columns)
 - [x] [implement row-level security roles](https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/)
-- [ ] [use the Q&A feature](https://docs.microsoft.com/en-us/power-bi/create-reports/power-bi-tutorial-q-and-a)
+- [x] [use the Q&A feature](https://docs.microsoft.com/en-us/power-bi/create-reports/power-bi-tutorial-q-and-a)
 
 ##### Additional resources:
 - [Row-level security (RLS) with Power BI](https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls)
