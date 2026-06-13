@@ -96,7 +96,7 @@ Unfortunately this section does not appear in the MS Learn track, though its ite
 - [x] [create calculated tables](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-calculated-tables)
 - [x] [create hierarchies](https://spreadsheeto.com/power-bi-hierarchy/)
 - [x] [create calculated columns](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-calculated-columns)
-- [ ] [implement row-level security roles](https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/)
+- [x] [implement row-level security roles](https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/)
 - [ ] [use the Q&A feature](https://docs.microsoft.com/en-us/power-bi/create-reports/power-bi-tutorial-q-and-a)
 
 ##### Additional resources:
