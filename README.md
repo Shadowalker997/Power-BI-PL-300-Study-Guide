@@ -104,7 +104,7 @@ Unfortunately this section does not appear in the MS Learn track, though its ite
 - [Use the Q&A visual](https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/2-visual?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.data-analysis-power-bi)
 
 ### [Create model calculations by using DAX](https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/)
-- [ ] [create basic measures by using DAX](https://www.red-gate.com/simple-talk/databases/sql-server/bi-sql-server/creating-measures-using-dax/)
+- [x] [create basic measures by using DAX](https://www.red-gate.com/simple-talk/databases/sql-server/bi-sql-server/creating-measures-using-dax/)
 - [ ] [use CALCULATE to manipulate filters](https://docs.microsoft.com/en-us/dax/best-practices/dax-avoid-avoid-filter-as-filter-argument)
 - [ ] implement Time Intelligence using DAX: [List of functions](https://docs.microsoft.com/en-us/dax/time-intelligence-functions-dax), [Helpful Guide](https://www.red-gate.com/simple-talk/homepage/creating-time-intelligence-functions-in-dax/)
 - [ ] [replace implicit measures with explicit measures](https://radacad.com/explicit-vs-implicit-dax-measures-in-power-bi)
