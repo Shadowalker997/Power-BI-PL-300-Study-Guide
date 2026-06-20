@@ -109,7 +109,7 @@ Unfortunately this section does not appear in the MS Learn track, though its ite
 - [ ] implement Time Intelligence using DAX: [List of functions](https://docs.microsoft.com/en-us/dax/time-intelligence-functions-dax), [Helpful Guide](https://www.red-gate.com/simple-talk/homepage/creating-time-intelligence-functions-in-dax/)
 - [x] [replace implicit measures with explicit measures](https://radacad.com/explicit-vs-implicit-dax-measures-in-power-bi)
 - [x] [use basic statistical functions](https://docs.microsoft.com/en-us/dax/statistical-functions-dax)
-- [ ] [create semi-additive measures](https://www.sqlbi.com/articles/semi-additive-measures-in-dax/)
+- [x] [create semi-additive measures](https://www.sqlbi.com/articles/semi-additive-measures-in-dax/)
 - [ ] [use quick measures](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-quick-measures)
 
 ##### Additional Resources:
