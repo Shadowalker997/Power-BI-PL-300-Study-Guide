@@ -110,16 +110,16 @@ Unfortunately this section does not appear in the MS Learn track, though its ite
 - [x] [replace implicit measures with explicit measures](https://radacad.com/explicit-vs-implicit-dax-measures-in-power-bi)
 - [x] [use basic statistical functions](https://docs.microsoft.com/en-us/dax/statistical-functions-dax)
 - [x] [create semi-additive measures](https://www.sqlbi.com/articles/semi-additive-measures-in-dax/)
-- [ ] [use quick measures](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-quick-measures)
+- [x] [use quick measures](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-quick-measures)
 
 ##### Additional Resources:
 - [Lab: Introduction to DAX in Power BI Desktop](https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/6-lab/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.model-power-bi)
 - [Lab: Time Intelligence and Measures in DAX](https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/8-lab/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn-bizapps.model-power-bi)
 
 ### [Optimize model performance](https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/)
-- [ ] [remove unnecessary rows and columns](https://docs.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction)
-- [ ] [identify poorly performing measures, relationships, and visuals](https://docs.microsoft.com/en-us/power-bi/guidance/power-bi-optimization)
-- [ ] [reduce cardinality levels to improve performance](https://www.testpreptraining.com/tutorial/improve-cardinality-levels-by-changing-data-types-and-through-summarization/)
+- [x] [remove unnecessary rows and columns](https://docs.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction)
+- [x] [identify poorly performing measures, relationships, and visuals](https://docs.microsoft.com/en-us/power-bi/guidance/power-bi-optimization)
+- [x] [reduce cardinality levels to improve performance](https://www.testpreptraining.com/tutorial/improve-cardinality-levels-by-changing-data-types-and-through-summarization/)
 
 ## [Visualize and Analyze the Data (25—30%)](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/)
 ### [Create reports](https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/)
